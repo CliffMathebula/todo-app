@@ -1,0 +1,14 @@
+/**
+ * Styling for board staging
+ */
+.drag-column {
+  background: #f3f3f3 !important;
+  border-radius: 8px;
+  box-shadow: 0 0 20px 0 #e2e2e2;
+
+  .drag-item {
+    height: unset;
+    background: rgb(255, 255, 255);
+    color: #443939;
+  }
+}

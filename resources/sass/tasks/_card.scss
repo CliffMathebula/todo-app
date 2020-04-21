@@ -1,0 +1,15 @@
+/**
+ * Styling for block cards
+ */
+.card-body {
+  padding: 0;
+
+  .close {
+    position: relative;
+    top: -40px;
+  }
+
+  .card-title-block {
+    width: 260px;
+  }
+}
